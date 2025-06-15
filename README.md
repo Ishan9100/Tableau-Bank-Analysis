@@ -1,7 +1,7 @@
 # 📊 Stakeholder Insights & Performance Dashboard | Tableau
 
 🔗 **View Live Dashboard on Tableau Public**  
-*([Add the Tableau Public URL once published](https://public.tableau.com/app/profile/ishan.prabhune/viz/StakeholderInsightsPerformanceDashboard_17499454320880/StakeholderInsightsPerformanceDashboard))*
+*([Stakeholder Insights & Performance Dashboard](https://public.tableau.com/app/profile/ishan.prabhune/viz/StakeholderInsightsPerformanceDashboard_17499454320880/StakeholderInsightsPerformanceDashboard))*
 
 ![Dashboard Screenshot](SI&PD.png)
 
